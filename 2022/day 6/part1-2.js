@@ -1,3 +1,6 @@
+// https://adventofcode.com/2022/day/6
+// How many characters need to be processed before the first start-of-packet marker is detected?
+// How many characters need to be processed before the first start-of-message marker is detected?
 const fs = require("fs");
 
 const fileContents = fs.readFileSync("./puzzle_input.txt", {

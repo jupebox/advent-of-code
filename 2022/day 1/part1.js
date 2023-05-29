@@ -1,3 +1,5 @@
+// https://adventofcode.com/2022/day/1
+// Find the Elf carrying the most Calories. How many total Calories is that Elf carrying?
 const fs = require("fs");
 
 const fileContents = fs.readFileSync("./puzzle_input.txt", {

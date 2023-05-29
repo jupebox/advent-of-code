@@ -1,3 +1,5 @@
+// https://adventofcode.com/2022/day/8
+// Consider your map; how many trees are visible from outside the grid?
 const fs = require("fs");
 
 const fileContents = fs.readFileSync("./puzzle_input.txt", {

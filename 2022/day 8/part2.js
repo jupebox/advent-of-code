@@ -1,3 +1,4 @@
+// Consider each tree on your map. What is the highest scenic score possible for any tree?
 const fs = require("fs");
 
 const fileContents = fs.readFileSync("./puzzle_input.txt", {

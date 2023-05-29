@@ -1,3 +1,4 @@
+// Following the Elf's instructions for the second column, what would your total score be if everything goes exactly according to your strategy guide?
 const fs = require("fs");
 
 const fileContents = fs.readFileSync("./puzzle_input.txt", {

@@ -1,3 +1,6 @@
+// https://adventofcode.com/2022/day/4
+// In how many assignment pairs does one range fully contain the other?
+// In how many assignment pairs do the ranges overlap?
 const fs = require("fs");
 
 const fileContents = fs.readFileSync("./puzzle_input.txt", {

@@ -1,3 +1,4 @@
+// Find the item type that corresponds to the badges of each three-Elf group. What is the sum of the priorities of those item types?
 const fs = require("fs");
 
 const fileContents = fs.readFileSync("./puzzle_input.txt", {

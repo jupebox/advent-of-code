@@ -1,3 +1,5 @@
+// https://adventofcode.com/2022/day/3
+// Find the item type that appears in both compartments of each rucksack. What is the sum of the priorities of those item types?
 const fs = require("fs");
 
 const fileContents = fs.readFileSync("./puzzle_input.txt", {

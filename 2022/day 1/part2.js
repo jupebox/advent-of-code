@@ -1,3 +1,4 @@
+// Find the top three Elves carrying the most Calories. How many Calories are those Elves carrying in total?
 const fs = require("fs");
 
 const fileContents = fs.readFileSync("./puzzle_input.txt", {
